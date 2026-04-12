@@ -7,7 +7,6 @@ vim.opt.expandtab = true        -- tab -> space
 vim.opt.tabstop = 2             -- 탭 간격
 vim.opt.shiftwidth = 2          -- 들여쓰기 간격
 vim.o.showtabline = 2
-
 vim.opt.sessionoptions = 'curdir,folds,globals,help,tabpages,terminal,winsize'
 
 -- 기본 설정
